@@ -1,0 +1,26 @@
+[
+  {
+    "length": "8", 
+    "name": "eggplant"
+  }, 
+  {
+    "length": "6", 
+    "name": "tomato"
+  }, 
+  {
+    "length": "4", 
+    "name": "corn"
+  }, 
+  {
+    "length": "9", 
+    "name": "aubergine"
+  }, 
+  {
+    "length": "9", 
+    "name": "hamburger"
+  }, 
+  {
+    "length": "6", 
+    "name": "walrus"
+  }
+]
